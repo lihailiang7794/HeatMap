@@ -8,6 +8,6 @@
 3. download the HeatMap code
 4. Please store the original image or video in the designated folder for "figure" or "video".
 5. double click the "heatmap-merge.py", "heat_map.py" or "heatmap-merge-video.py"
-6. Modify input and out path
+6. Modify input and out path (Path names cannot contain special symbols like "*", "-," .....)
 7. modify resize parameter
 7. run
